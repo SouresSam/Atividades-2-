@@ -1,1 +1,1 @@
-adwadwad
+console.log ("olá,mundo");
